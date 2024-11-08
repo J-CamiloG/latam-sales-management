@@ -1,0 +1,22 @@
+{
+  "clients": [
+    { "id": 1, "name": "John Doe", "email": "john@example.com" },
+    { "id": 2, "name": "Jane Smith", "email": "jane@example.com" }
+  ],
+  "branch_offices": [
+    { "id": 1, "name": "Argentina", "currency": "ARS" },
+    { "id": 2, "name": "Chile", "currency": "CLP" },
+    { "id": 3, "name": "Perú", "currency": "PEN" }
+  ],
+  "products": {
+    "1": [
+      { "id": 1, "name": "Product A", "price": 100 }
+    ],
+    "2": [
+      { "id": 2, "name": "Product B", "price": 200 }
+    ],
+    "3": [
+      { "id": 3, "name": "Product C", "price": 300 }
+    ]
+  }
+}
